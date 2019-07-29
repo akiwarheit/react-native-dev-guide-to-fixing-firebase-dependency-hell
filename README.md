@@ -1,2 +1,2 @@
-# react-native-dev-guide-to-fixing-firebase-dependency-hell
-How to address dependency hell with Firebase
+# The React Native Developer's Guide to Fixing Firebase Dependency Hell
+You can't. Sorry.
